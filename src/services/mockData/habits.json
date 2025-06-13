@@ -1,0 +1,50 @@
+[
+  {
+    "id": "drink-water",
+    "name": "Drink Water",
+    "icon": "Droplets",
+    "isSelected": false
+  },
+  {
+    "id": "meditate",
+    "name": "Meditate",
+    "icon": "Brain",
+    "isSelected": false
+  },
+  {
+    "id": "exercise",
+    "name": "Exercise",
+    "icon": "Dumbbell",
+    "isSelected": false
+  },
+  {
+    "id": "read",
+    "name": "Read",
+    "icon": "BookOpen",
+    "isSelected": false
+  },
+  {
+    "id": "sleep-early",
+    "name": "Sleep Early",
+    "icon": "Moon",
+    "isSelected": false
+  },
+  {
+    "id": "gratitude",
+    "name": "Practice Gratitude",
+    "icon": "Heart",
+    "isSelected": false
+  },
+  {
+    "id": "stretch",
+    "name": "Stretch",
+    "icon": "UserCheck",
+    "isSelected": false
+  },
+  {
+    "id": "walk",
+    "name": "Take a Walk",
+    "icon": "Footprints",
+    "isSelected": false
+  }
+]
